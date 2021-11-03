@@ -34,6 +34,7 @@ section {
     border: 1px solid black;
 	text-align: center;
     width: 30%;
+	border-radius: 0.1em;
 	margin-left: 70%;
 	font-weight: bold;
 	font-size: 125%;
