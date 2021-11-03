@@ -3,7 +3,7 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .heading-title {
@@ -23,7 +23,6 @@ body {
 section {
     border:	1px solid black;
     background-color: gray;
-    border-radius: 0.5rem;
 	width: 100%;
 	height: 200px;
 	color: black;
@@ -33,7 +32,6 @@ section {
 
 #chicken {
     border: 1px solid black;
-    border-radius: 0.5rem;
 	text-align: center;
     width: 30%;
 	margin-left: 70%;
@@ -47,7 +45,6 @@ section {
 
 #beef {
     border: 1px solid black;
-    border-radius: 0.5rem;
 	text-align: center;
     width: 30%;
 	margin-left: 70%;
@@ -61,7 +58,6 @@ section {
 
 #sushi {
     border: 1px solid black;
-    border-radius: 0.5rem;
 	text-align: center;
     width: 30%;
 	margin-left: 70%;
